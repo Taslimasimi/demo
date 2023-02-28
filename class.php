@@ -19,8 +19,8 @@ class Person {
 
 $person = new Person();
 //Task 2 output
-$person->setName( "Tufik" );
-$person->setEmail( "tufikhasan05@gmail.com" );
+$person->setName( "Taslima" );
+$person->setEmail( "taslimasimi96@gmail.com" );
 $taskTwoName = $person->getName();
 $taskTwoEmail = $person->getEmail();
 
